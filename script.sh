@@ -20,3 +20,4 @@ add-apt-repository ppa:webupd8team/atom
 apt-get update
 apt-get install atom
 apt-get install awscli -y
+apt-get install nmap
