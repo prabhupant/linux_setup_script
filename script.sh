@@ -8,16 +8,33 @@ apt update
 
 # Languages
 apt-get install python3
+apt-get install python3-dev
 
 # Installating tools for Linux
 apt-get install linux-tools-common -y
 apt-get install htop -y
 
+# -------
 # Installing IDEs and Editors
-apt-get install vim
+# -------
+
+# snap
 snap install --classic code
+snap install postman
+
+
+apt-get install vim
+
 add-apt-repository ppa:webupd8team/atom
 apt-get update
 apt-get install atom
 apt-get install awscli -y
 apt-get install nmap
+
+# Brave browser
+
+# Slack
+
+# Gitter
+
+# 
