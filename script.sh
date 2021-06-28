@@ -37,4 +37,6 @@ apt-get install nmap
 
 # Gitter
 
-# 
+# Changes to Gnome
+gsettings set org.gnome.shell.extensions.dash-to-dock middle-click-action 'previews'
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
